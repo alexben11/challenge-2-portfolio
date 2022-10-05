@@ -2,7 +2,8 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-header {
+.header {
+    display: block;
     width: 100%;
     background-color: grey;
 }
